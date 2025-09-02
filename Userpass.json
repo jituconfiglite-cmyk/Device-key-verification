@@ -19,5 +19,12 @@
         "password": "v1",
         "expirydate": "15-12-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "22cebaeaf33bb5f5",
+        "username": "jitu",
+        "password": "v2",
+        "expirydate": "15-12-2025",
+        "Allowoffline": false
     }
 ]
